@@ -1,4 +1,5 @@
-<!-- Hero -->
+will_learn: ['System Design', 'Cloud Architecture']
+hobbies: ['Gaming', 'Building personal projects', 'Gym', 'Exploring new places']<!-- Hero -->
 
 ## Hello there, I'm Canberk Turan
 
@@ -47,8 +48,9 @@ past_experiences:
   ]
 
 currently_learning: ['Testing', 'Docker', 'AWS', 'Clean Architecture']
+
+will_learn: ['System Design', 'Cloud Architecture']
 hobbies: ['Gaming', 'Building personal projects', 'Gym', 'Exploring new places']
-hobbies: ['Building practical products', 'Automation workflows', 'Learning new technologies']
 ```
 
 ---
