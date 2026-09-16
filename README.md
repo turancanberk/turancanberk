@@ -1,4 +1,4 @@
-will_learn: ['System Design', 'Cloud Architecture']
+
 hobbies: ['Gaming', 'Building personal projects', 'Gym', 'Exploring new places']<!-- Hero -->
 
 ## Hello there, I'm Canberk Turan
