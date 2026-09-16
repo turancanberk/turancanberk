@@ -1,5 +1,5 @@
 
-hobbies: ['Gaming', 'Building personal projects', 'Gym', 'Exploring new places']<!-- Hero -->
+<!-- Hero -->
 
 ## Hello there, I'm Canberk Turan
 
