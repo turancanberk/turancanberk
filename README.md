@@ -45,7 +45,7 @@ past_experiences:
     'Bursa, Türkiye',
     '07/2025 - 12/2025',
   ]
-currently_learning: ['Testing', 'Docker', 'Clean Architecture']
+hobbies: ['Gaming', 'Building personal projects', 'Gym', 'Exploring new places']
 will_learn: ['System Design', 'Cloud Architecture']
 hobbies: ['Building practical products', 'Automation workflows', 'Learning new technologies']
 ```
