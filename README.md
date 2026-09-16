@@ -6,39 +6,33 @@
 
 ## 🌐 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/canberkturan16)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=icloud)](mailto:turan.canberk@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://canberkturan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/canberkturan16)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=icloud&logoColor=white)](mailto:turan.canberk@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://canberkturan.vercel.app)
 
 ## 🧾 About Me
 
 ```yaml
 name: Canberk Turan
 located_in: Istanbul, Türkiye
-role: Full-Stack Developer
-backend_focus:
-  - C#
-  - .NET 8
-  - ASP.NET Web API
-  - Entity Framework Core
-frontend:
-  - React
-  - Next.js
-  - TypeScript
-automation:
-  - n8n
-  - Node-RED
-  - Google Sheets API
-  - REST APIs
-interests:
+job: Full-Stack Developer
+education: B.A. Economics
+company: Anadolu Properties
+fields_of_interests:
   - Business process automation
   - Internal tools
   - Data-driven applications
+  - API development
   - AI-assisted development
-open_to:
-  - Full-stack roles
-  - Backend roles
-  - Automation-focused engineering roles
+currently_learning:
+  - Testing
+  - Docker
+  - Clean Architecture
+  - System Design
+hobbies:
+  - Building practical products
+  - Exploring automation workflows
+  - Learning new technologies
 ```
 
 ## 🛠️ Technical Skills
@@ -48,7 +42,7 @@ open_to:
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET](https://img.shields.io/badge/ASP.NET_Web_API-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=xunit&logoColor=white)
 
 ### Frontend
@@ -97,7 +91,3 @@ open_to:
 
 - Bilge Adam .NET Certificate of Achievement
 - trexAcademy VAR Partner Program Certificate
-
-## 🚧 Portfolio
-
-Selected public projects will be added here as they are prepared for review.
